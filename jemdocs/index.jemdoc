@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{index.html}
+= Taehyeon Koo 
+
+~~~
+{}{img_left}{./imgs/profile2.jpg}{Taehyeon Koo}{270px}{320px}
+I am a Postdoctoral Researcher at the [https://www.publichealth.columbia.edu/ Columbia University Mailman School of Public Health], where I am fortunate to be mentored by Professors [https://www.elizabethstuart.org/ Elizabeth Stuart], [https://kararudolph.github.io/ Kara Rudolph], and [https://calebhmiles.github.io/ Caleb Miles]. I obtained my Ph.D. in Statistics from Rutgers University in 2025 under the supervision of Professors [https://statweb.rutgers.edu/zijguo/ Zijian Guo] and [https://sites.google.com/view/npashley/home?authuser=0 Nicole Pashley]. Previously, I earned my master's degree in Statistics from Seoul National University in 2020 and my bachelor's degree in Mathematical Science from the same institution in 2018. \n
+\n
+
+\[[https://scholar.google.com/citations?user=EL91AqwAAAAJ&hl=en&oi=ao Google Scholar]\] \[[https://github.com/taehyeonkoo GitHub]\] \[[./files/CV_TK.pdf Curriculum Vitae]\]
+~~~
+
+
+== Research interests
+My research focuses on causal inference including:
+- Uncertainty quantification 
+- Distributional robustness
+- Randomization-based inference 
+- Generalizability, transportability, and data fusion
+- Sensitivity analysis
+
+== Education
+
+- Ph.D. in [https://stat.rutgers.edu Statistics], Rutgers University, May 2025.
+- M.S. in [https://stat.snu.ac.kr Statistics], Seoul National University, Feb 2020.
+- B.S. in [https://www.math.snu.ac.kr/board/?mid=portal Mathematical Science], Seoul National University, Feb 2018.
+
+== Honors and awards
+
+- ASA Early Career Travel Award, Joint Statistical Meeting (JSM) 2025, Aug 2025
+- Student Travel Award, ASA/IMS Spring Research Conference (SRC) 2025, Jun 2025
+- Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, Sep 2021
+
+== Contact
+Email: tk3077 \[at\] cumc \[dot\] columbia \[dot\] edu
+

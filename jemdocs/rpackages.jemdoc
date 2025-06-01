@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{rpackages.html}
+= R packages
+
+Here is a list of R packages.
+
+
+=== RobustIV
+- Robust Instrumental Variable Methods in Linear Models
+\[[https://cran.r-project.org/web/packages/RobustIV/index.html CRAN]\] \[[https://github.com/zijguo/RobustIV GitHub]\]
+
+=== controlfunctionIV
+- Control Function Methods with Possibly Invalid Instrumental Variables
+\[[https://cran.r-project.org/web/packages/controlfunctionIV/index.html CRAN]\] \[[https://github.com/zijguo/controlfunctionIV GitHub]\]
+
+=== IBDInfer
+- Design-based Causal Inference for Incomplete Block Designs 
+\[[https://cran.r-project.org/web/packages/IBDInfer/index.html CRAN]\] \[[https://github.com/taehyeonkoo/IBDInfer GitHub]\]

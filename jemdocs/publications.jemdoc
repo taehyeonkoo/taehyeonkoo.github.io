@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Preprints
+. [https://arxiv.org/abs/2405.19312 Design-based Causal Inference for Incomplete Block Designs
+] \n
+*Koo, T.*, & Pashley, N.E. (2024)
+== Publications
+. [https://muse.jhu.edu/pub/56/article/906625 RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables] \n
+ *Koo, T.*, Lee, Y., Small, D.S., & Guo, Z. (2023)\n
+ /Observational Studies/ 9(4), 97-120.
+
+
+
