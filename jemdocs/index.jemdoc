@@ -10,13 +10,12 @@ I am a Postdoctoral Researcher at the [https://www.publichealth.columbia.edu/ Co
 ~~~
 
 
-== Research interests
-My research focuses on causal inference including:
-- Uncertainty quantification 
-- Distributional robustness
-- Randomization-based inference 
-- Generalizability, transportability, and data fusion
-- Sensitivity analysis
+== Research Interests
+My research focuses on causal inference, with particular interests in:
+- Generalizability and distributional robustness
+- Randomization-based inference
+- Non-regular inference
+- Positivity violation
 
 == Education
 
@@ -24,11 +23,10 @@ My research focuses on causal inference including:
 - M.S. in [https://stat.snu.ac.kr Statistics], Seoul National University, Feb 2020.
 - B.S. in [https://www.math.snu.ac.kr/board/?mid=portal Mathematical Science], Seoul National University, Feb 2018.
 
-== Honors and awards
+== Honors and Awards
 
 - ASA Early Career Travel Award, Joint Statistical Meeting (JSM) 2025, Aug 2025
 - Student Travel Award, ASA/IMS Spring Research Conference (SRC) 2025, Jun 2025
-- Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, Sep 2021
 
 == Contact
 Email: tk3077 \[at\] cumc \[dot\] columbia \[dot\] edu
