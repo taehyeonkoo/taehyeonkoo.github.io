@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-= Taehyeon Koo 
+= Taehyeon Koo
 
 ~~~
 {}{img_left}{./imgs/profile2.jpg}{Taehyeon Koo}{270px}{320px}
@@ -13,16 +13,18 @@ I am a Postdoctoral Researcher at the [https://www.publichealth.columbia.edu/ Co
 == Research Interests
 I am broadly interested in statistical theory and methodology, with particular emphasis on:
 - Causal inference
+- Distributionally robust optimization
 - Non-regular statistical inference
 - Randomization-based inference
-- Distributionally robust optimization
 - Sensitivity analysis
+
 
 == Education
 
 - Ph.D. in [https://stat.rutgers.edu Statistics], Rutgers University, May 2025.
 - M.S. in [https://stat.snu.ac.kr Statistics], Seoul National University, Feb 2020.
 - B.S. in [https://www.math.snu.ac.kr/board/?mid=portal Mathematical Science], Seoul National University, Feb 2018.
+
 
 == Honors and Awards
 
