@@ -1,10 +1,15 @@
 # jemdoc: menu{MENU}{talks.html}
 = Talks
 
-=== Causal Effects of Modified Treatment Policy under Limited Overlap
+=== Causal Effects of Modified Treatment Policy under Positivity Violations
+- Poster presentation, American Causal Inference Conference (ACIC) 2026, May 2026 
 - Causal Inference Learning Group Seminar, Columbia University, Dec 2025
 
-=== Distributionally Robust Synthetic Control
+=== Synthetic Control with Weight Uncertainty
+- Invited talk, ASA Statistical Learning and Data Science (SLDS) Conference 2026, Nov 2026
+- Invited talk, Korean International Statistical Society (KISS) Webinar 2026, Sep 2026
+- Lightening talk, IMS New Researcher Conference (NRC) 2026, Jul 2026 
+- Poster presentation, American Causal Inference Conference (ACIC) 2026, May 2026 
 - Contributed talk, The Joint Statistical Meetings (JSM) 2025, Aug 2025
 - Center for Causal Inference Seminar, University of Pennsylvania, Nov 2024
 

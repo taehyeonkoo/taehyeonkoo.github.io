@@ -1,17 +1,8 @@
-Home
-    About me                [index.html]
-    CV            	[./files/CV_TK.pdf]
-
-Research
-    Publications      [publications.html]
-    Talks            [talks.html]
-
-Softwares
-    R packages        [rpackages.html]
-
-
-Teaching
-    Teaching             [teaching.html]
+Home                 [index.html]
+Papers               [publications.html]
+Talks                [talks.html]
+Software             [rpackages.html]
+Teaching             [teaching.html]
 
 
 # vim: et

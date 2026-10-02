@@ -6,18 +6,23 @@
 I am a Postdoctoral Researcher at the [https://www.publichealth.columbia.edu/ Columbia University Mailman School of Public Health], where I am fortunate to be mentored by Professors [https://www.elizabethstuart.org/ Elizabeth Stuart], [https://kararudolph.github.io/ Kara Rudolph], and [https://calebhmiles.github.io/ Caleb Miles]. I obtained my Ph.D. in Statistics from Rutgers University in 2025 under the supervision of Professors [https://zijguo.github.io/ Zijian Guo] and [https://sites.google.com/view/npashley/home?authuser=0 Nicole Pashley]. Previously, I earned my master's degree in Statistics from Seoul National University in 2020 and my bachelor's degree in Mathematical Science from the same institution in 2018. \n
 \n
 
-\[[https://scholar.google.com/citations?user=EL91AqwAAAAJ&hl=en&oi=ao Google Scholar]\] \[[https://github.com/taehyeonkoo GitHub]\] \[[./files/CV_TK.pdf Curriculum Vitae]\]
+I am on the *2026–27 academic job market*.
+\n
+
+[https://scholar.google.com/citations?user=EL91AqwAAAAJ&hl=en&oi=ao Google Scholar] [https://github.com/taehyeonkoo GitHub] [./files/CV_TK.pdf Curriculum Vitae]
 ~~~
 
 
 == Research Interests
-I am broadly interested in statistical theory and methodology, with particular emphasis on:
-- Causal inference
-- Distributionally robust optimization
-- Non-regular statistical inference
-- Randomization-based inference
+I am broadly interested in developing statistical methodology for causal inference and experimental designs, with particular emphasis on:
 - Partial identification and sensitivity analysis
+- Non-standard inference
+- Distributionally robust optimization
+- Design and analysis of randomized experiments
 
+== News
+- /Preprint/: [https://arxiv.org/abs/2608.23971 Causal Effects of Modified Treatment Policies under Positivity Violations: A Partial Identification Approach] on arXiv.
+- /Preprint/: [https://arxiv.org/abs/2511.02632 Synthetic Control with Weight Uncertainty: Robust Identification and Statistical Inference] on arXiv.
 
 == Education
 
@@ -34,4 +39,3 @@ I am broadly interested in statistical theory and methodology, with particular e
 
 == Contact
 Email: tk3077 \[at\] cumc \[dot\] columbia \[dot\] edu
-

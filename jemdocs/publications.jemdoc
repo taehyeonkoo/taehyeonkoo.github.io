@@ -1,18 +1,19 @@
 # jemdoc: menu{MENU}{publications.html}
-= Publications
+= Papers
 
 == Preprints
-. [https://arxiv.org/abs/2511.02632 Distributionally Robust Synthetic Control: Ensuring Robustness Against Highly Correlated Controls and Weight Shifts] \n
-*Koo, T.*, & Guo, Z. (2025)
+. [https://arxiv.org/abs/2608.23971 Causal Effects of Modified Treatment Policies under Positivity Violations: A Partial Identification Approach] \n
+*Koo, T.*, Stuart, E. A., Rudolph, K. E., & Miles, C. H. (2026)
+. [https://arxiv.org/abs/2511.02632 Synthetic Control with Weight Uncertainty: Robust Identification and Statistical Inference] \n
+*Koo, T.*, & Guo, Z. (2026)
 
 == Publications
 . [https://doi.org/10.1093/biomet/asag013 Design-based Causal Inference for Incomplete Block Designs
 ] \n
-*Koo, T.*, & Pashley, N.E. (2026+)\n
-/Biometrika/, to appear.
+*Koo, T.*, & Pashley, N.E. (2026)\n
+/Biometrika/ 113 (2), asag013.
 . [https://muse.jhu.edu/pub/56/article/906625 RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables] \n
  *Koo, T.*, Lee, Y., Small, D.S., & Guo, Z. (2023)\n
  /Observational Studies/ 9(4), 97-120.
-
 
 
